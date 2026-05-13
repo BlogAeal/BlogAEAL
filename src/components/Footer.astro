@@ -1,0 +1,40 @@
+---
+const year = new Date().getFullYear();
+const homeHref = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const logoSrc = `${homeHref}assets/aeal-logo.png`;
+---
+<footer class="site-footer">
+  <div class="container">
+
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="https://www.aeal.es" target="_blank" rel="noopener" aria-label="Ir a AEAL.es">
+          <img class="footer-logo" src={logoSrc} alt="Logo AEAL" />
+        </a>
+        <p class="footer-tag">Asociación Española de Afectados por Linfoma, Mieloma y Leucemia. Información y apoyo para pacientes y familias.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Navegación</h4>
+        <a href={homeHref}>Portada</a>
+        <a href={`${homeHref}archivo/`}>Archivo</a>
+        <a href={`${homeHref}buscar/`}>Buscar</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Enlaces</h4>
+        <a href="https://www.aeal.es" target="_blank" rel="noopener">Web</a>
+        <a href="https://x.com/AEAL_asoc" target="_blank" rel="noopener">X</a>
+        <a href="https://www.facebook.com/aeal.es" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://www.instagram.com/aeal_asoc/" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.linkedin.com/company/aeal-asociacion-espanola-de-afectados-por-linfoma-mieloma-y-leucemia/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© {year} AEAL · Todos los derechos reservados</span>
+      <span class="footer-krokland">Sistema editorial por <a href="https://krokland.com" target="_blank" rel="noopener">Krokland</a></span>
+    </div>
+
+  </div>
+</footer>

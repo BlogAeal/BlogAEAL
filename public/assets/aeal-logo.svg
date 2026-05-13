@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" fill="none">
+  <rect width="640" height="180" rx="24" fill="#F8F4F8"/>
+  <g fill="#6B4C7A">
+    <path d="M42 126V54h20l25 41 25-41h20v72h-15V81l-23 38h-14L57 81v45H42Z"/>
+    <path d="M165 126l31-72h15l31 72h-16l-7-17h-31l-7 17h-16Zm28-30h21l-10-26-11 26Z"/>
+    <path d="M254 126V54h15v59h33v13h-48Z"/>
+    <path d="M310 126l31-72h15l31 72h-16l-7-17h-31l-7 17h-16Zm28-30h21l-10-26-11 26Z"/>
+  </g>
+  <g fill="#4B4350">
+    <path d="M411 70h91v8h-91z" opacity=".22"/>
+    <text x="411" y="102" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1.5">AEAL</text>
+    <text x="412" y="127" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="1">ASOCIACIÓN ESPAÑOLA DE AFECTADOS POR LINFOMA, MIELOMA Y LEUCEMIA</text>
+  </g>
+</svg>
