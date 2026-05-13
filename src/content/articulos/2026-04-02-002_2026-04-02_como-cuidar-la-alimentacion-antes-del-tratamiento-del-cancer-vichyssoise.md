@@ -47,4 +47,4 @@ Una opción ligera, de textura suave y fácil de consumir cuando hay falta de ap
 
 Limpia y corta los puerros y la cebolla. Rehógalos con un poco de aceite de oliva a fuego suave. Añade las patatas troceadas y el caldo de verduras, y deja cocer hasta que todo esté tierno. Tritura la mezcla, incorpora la nata y ajusta de agua o sal si hiciera falta. Puede servirse templada o fría.
 
-![](/assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_02.webp)
+![](/BlogAEAL/assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_02.webp)

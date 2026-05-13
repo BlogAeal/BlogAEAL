@@ -36,4 +36,4 @@ El resultado es una conversación útil para entender mejor las luces y sombras 
 
 Este tipo de espacios ayudan a trasladar una enfermedad poco conocida al debate público y a reforzar la necesidad de reconocimiento, investigación y acompañamiento. Darle voz a la EICR también forma parte del trabajo de sensibilización que AEAL impulsa.
 
-![](/assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_02.webp)
+![](/BlogAEAL/assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_02.webp)

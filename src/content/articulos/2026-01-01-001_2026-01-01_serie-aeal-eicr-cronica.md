@@ -36,4 +36,4 @@ La complejidad de la EICR crónica exige un abordaje integral y coordinado que c
 
 AEAL participa en este esfuerzo aportando la voz de los pacientes, una perspectiva esencial para comprender el impacto real de la enfermedad más allá de los indicadores clínicos y avanzar hacia una atención más humana y completa.
 
-![](/assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_02.webp)
+![](/BlogAEAL/assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_02.webp)
