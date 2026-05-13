@@ -6,7 +6,7 @@ tags: []
 resumen: "La EICR crónica afecta a hasta el 40 % de las personas trasplantadas. AEAL reclama visibilidad, atención integral y acceso equitativo a nuevas terapias."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-02-02_aeal_la-eicr-cronica-una-enfermedad-invisible-tras-el-trasplante-de-medula-osea-que-requiere-un-abordaje-integral_01.webp"
+  url: "/assets/uploads/2026-02-02_aeal_la-eicr-cronica-una-enfermedad-invisible-tras-el-trasplante-de-medula-osea-que-requiere-un-abordaje-integral_01.webp"
   alt: "La EICR crónica: una enfermedad invisible tras el trasplante de médula ósea que requiere un abordaje integral"
 destacado: false
 estado: publicado

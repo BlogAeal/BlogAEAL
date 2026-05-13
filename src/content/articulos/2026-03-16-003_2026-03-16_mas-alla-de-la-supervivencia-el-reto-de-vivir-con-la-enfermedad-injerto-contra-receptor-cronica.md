@@ -6,7 +6,7 @@ tags: []
 resumen: "La jornada puso el foco en el impacto real de la EICR crónica y en la necesidad de mejorar su diagnóstico, abordaje multidisciplinar y reconocimiento social."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-03-16_aeal_mas-alla-de-la-supervivencia-el-reto-de-vivir-con-la-enfermedad-injerto-contra-receptor-cronica_01.webp"
+  url: "/assets/uploads/2026-03-16_aeal_mas-alla-de-la-supervivencia-el-reto-de-vivir-con-la-enfermedad-injerto-contra-receptor-cronica_01.webp"
   alt: "Más allá de la supervivencia: El reto de vivir con la Enfermedad Injerto contra Receptor Crónica"
 destacado: false
 estado: publicado

@@ -6,7 +6,7 @@ tags: []
 resumen: "Tras finalizar el tratamiento oncológico, muchas personas experimentan miedo a la recaída, especialmente durante las revisiones médicas. Entender esta emoción y contar con estrategias sencillas puede ayudar a atravesar esta etapa con mayor calma."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-04-02_aeal_miedo-a-la-recaida-en-el-paciente-hematooncologico_01.webp"
+  url: "/assets/uploads/2026-04-02_aeal_miedo-a-la-recaida-en-el-paciente-hematooncologico_01.webp"
   alt: "Miedo a la recaída en el paciente hematooncológico"
 destacado: false
 estado: publicado

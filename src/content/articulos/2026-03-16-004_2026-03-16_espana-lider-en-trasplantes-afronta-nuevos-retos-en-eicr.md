@@ -6,7 +6,7 @@ tags: []
 resumen: "España y el futuro de los trasplantes: el gran desafío de la EICR. El programa Marca España puso el foco en un reto clínico complejo que afecta a muchas personas tras el trasplante de médula ósea."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_01.webp"
+  url: "/assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_01.webp"
   alt: "España, líder en trasplantes, afronta nuevos retos en EICR"
 destacado: false
 estado: publicado
@@ -36,4 +36,4 @@ El resultado es una conversación útil para entender mejor las luces y sombras 
 
 Este tipo de espacios ayudan a trasladar una enfermedad poco conocida al debate público y a reforzar la necesidad de reconocimiento, investigación y acompañamiento. Darle voz a la EICR también forma parte del trabajo de sensibilización que AEAL impulsa.
 
-![](./assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_02.webp)
+![](/assets/uploads/2026-03-16_aeal_espana-lider-en-trasplantes-afronta-nuevos-retos-en-eicr_02.webp)

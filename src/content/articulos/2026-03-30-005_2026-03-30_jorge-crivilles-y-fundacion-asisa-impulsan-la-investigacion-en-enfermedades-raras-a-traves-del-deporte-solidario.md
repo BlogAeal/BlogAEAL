@@ -6,7 +6,7 @@ tags: []
 resumen: "Nadar por una causa: visibilidad y fondos para enfermedades poco frecuentes. La iniciativa de la Fundación ASISA junto a Jorge Crivillés convierte cada travesía en un impulso real para la investigación biomédica y para dar voz a los pacientes con enfermedades raras."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/2026-03-30_aeal_01_Jorge_Crivilles.jpeg"
+  url: "/assets/2026-03-30_aeal_01_Jorge_Crivilles.jpeg"
   alt: "Jorge Crivillés y Fundación ASISA impulsan la investigación en enfermedades raras a través del deporte solidario"
 destacado: false
 estado: publicado
@@ -42,4 +42,4 @@ Este tipo de iniciativas también subraya la importancia de adoptar un enfoque m
 
 El proyecto impulsado por Jorge Crivillés y la Fundación ASISA demuestra cómo el deporte puede trascender su dimensión competitiva para convertirse en una herramienta de transformación social. La combinación de visibilidad, compromiso y apoyo a la investigación representa un paso firme hacia un futuro en el que las enfermedades raras cuenten con más recursos, mayor reconocimiento y mejores oportunidades de tratamiento.
 
-![](./assets/2026-03-30_aeal_02_Jorge_Crivilles.jpeg)
+![](/assets/2026-03-30_aeal_02_Jorge_Crivilles.jpeg)

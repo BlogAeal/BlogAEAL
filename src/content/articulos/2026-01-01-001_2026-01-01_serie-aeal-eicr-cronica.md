@@ -6,7 +6,7 @@ tags: []
 resumen: "La EICR crónica es una de las complicaciones más complejas asociadas al trasplante de progenitores hematopoyéticos y requiere una mirada integral centrada también en la calidad de vida del paciente."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_01.webp"
+  url: "/assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_01.webp"
   alt: "Serie AEAL · EICR Crónica"
 destacado: false
 estado: publicado
@@ -36,4 +36,4 @@ La complejidad de la EICR crónica exige un abordaje integral y coordinado que c
 
 AEAL participa en este esfuerzo aportando la voz de los pacientes, una perspectiva esencial para comprender el impacto real de la enfermedad más allá de los indicadores clínicos y avanzar hacia una atención más humana y completa.
 
-![](./assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_02.webp)
+![](/assets/uploads/2026-01-01_aeal_serie-aeal-eicr-cronica_02.webp)

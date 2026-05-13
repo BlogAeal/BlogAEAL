@@ -6,7 +6,7 @@ tags: []
 resumen: "Antes de iniciar el tratamiento oncológico, cuidar la alimentación es clave para mantener un buen estado nutricional. Una dieta adecuada ayuda a preservar la energía, mejorar la tolerancia a los tratamientos y afrontar esta etapa en mejores condiciones."
 autor: "Equipo AEAL"
 imagen:
-  url: "./assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_01.webp"
+  url: "/assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_01.webp"
   alt: "Cómo cuidar la alimentación antes del tratamiento del cáncer"
 destacado: false
 estado: publicado
@@ -47,4 +47,4 @@ Una opción ligera, de textura suave y fácil de consumir cuando hay falta de ap
 
 Limpia y corta los puerros y la cebolla. Rehógalos con un poco de aceite de oliva a fuego suave. Añade las patatas troceadas y el caldo de verduras, y deja cocer hasta que todo esté tierno. Tritura la mezcla, incorpora la nata y ajusta de agua o sal si hiciera falta. Puede servirse templada o fría.
 
-![](./assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_02.webp)
+![](/assets/uploads/2026-04-02_aeal_como-cuidar-la-alimentacion-antes-del-tratamiento-del-cancer-vichyssoise_02.webp)
