@@ -17,11 +17,12 @@ const { data } = articulo;
 
 const minutos = data.tiempo_lectura ?? tiempoLectura(articulo.body);
 const homeHref = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const coverUrl = data.imagen?.url ? `${homeHref}${data.imagen.url.replace(/^\//, '')}` : null;
 ---
 <Base
   title={`${data.meta_titulo ?? data.titulo} · AEAL`}
   description={data.meta_descripcion ?? data.resumen}
-  ogImage={data.imagen?.url}
+  ogImage={coverUrl ?? undefined}
 >
 
   <article class="article">
@@ -46,10 +47,10 @@ const homeHref = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_U
       </div>
     </header>
 
-    {data.imagen?.url && (
+    {coverUrl && (
       <div class="article-cover">
         <figure>
-          <img src={data.imagen.url} alt={data.imagen.alt} />
+          <img src={coverUrl} alt={data.imagen?.alt ?? ''} />
           {(data.imagen.caption || data.imagen.credito) && (
             <figcaption>
               {data.imagen.caption}
