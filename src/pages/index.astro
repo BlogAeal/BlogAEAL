@@ -8,8 +8,9 @@ import { articulosPublicados, CATEGORIAS } from '../lib/utils.js';
 const todos = await getCollection('articulos');
 const publicados = articulosPublicados(todos);
 
-// Destacado: el primer artículo con destacado=true, o el más reciente
-const destacado = publicados.find(a => a.data.destacado) ?? publicados[0];
+// Destacado: el más reciente con destacado=true, priorizando portada válida si existe
+const destacados = publicados.filter(a => a.data.destacado);
+const destacado = destacados[0] ?? publicados[0];
 const resto = publicados.filter(a => a.slug !== destacado?.slug);
 
 const categorias = Object.entries(CATEGORIAS);
