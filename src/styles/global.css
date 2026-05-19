@@ -399,18 +399,20 @@ button { font: inherit; cursor: pointer; background: none; border: 0; color: inh
 }
 .article-image {
   aspect-ratio: auto;
-  min-height: 220px;
+  min-height: 300px;
   background: var(--bg-tint);
   overflow: hidden;
   border: 1px solid var(--line);
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: var(--s-2);
 }
 .article-image img {
-  width: 100%;
+  width: auto;
   height: auto;
-  max-height: 420px;
+  max-width: 100%;
+  max-height: 520px;
   object-fit: contain;
   transition: transform .4s ease;
   background: var(--surface-2);
@@ -533,15 +535,16 @@ button { font: inherit; cursor: pointer; background: none; border: 0; color: inh
   .featured-grid { grid-template-columns: 1.15fr 0.95fr; gap: var(--s-8); align-items: center; }
 }
 .featured-image {
-  min-height: 320px;
+  min-height: 420px;
   background: var(--bg-tint);
   border: 1px solid var(--line);
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: var(--s-3);
 }
-.featured-image img { width: 100%; height: auto; max-height: 560px; object-fit: contain; background: var(--surface-2); }
+.featured-image img { width: auto; height: auto; max-width: 100%; max-height: 640px; object-fit: contain; background: var(--surface-2); }
 .featured-meta {
   display: flex; gap: var(--s-4);
   flex-wrap: wrap;
