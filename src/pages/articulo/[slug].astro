@@ -19,7 +19,7 @@ const renderedHtml = (rendered.html ?? '').replaceAll('src="/assets/', `src="${i
 
 const minutos = data.tiempo_lectura ?? tiempoLectura(articulo.body);
 const homeHref = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const coverUrl = data.imagen?.url ? `${homeHref}${data.imagen.url.replace(/^\//, '')}` : null;
+const coverUrl = !data.imagen?.url ? null : (/^https?:\/\//.test(data.imagen.url) ? data.imagen.url : `${homeHref}${data.imagen.url.replace(/^\//, '')}`);
 ---
 <Base
   title={`${data.meta_titulo ?? data.titulo} · AEAL`}
