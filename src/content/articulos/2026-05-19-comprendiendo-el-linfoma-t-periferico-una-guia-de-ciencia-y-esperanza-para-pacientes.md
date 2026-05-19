@@ -12,7 +12,7 @@ fuente:
 imagen:
   url: "https://blogaeal.github.io/BlogAEAL/assets/uploads/editorial-mail/2026-05-19_aeal_comprendiendo-el-linfoma-t-periferico-una-guia-de-ciencia-y-esperanza-para-pacientes_01.jpeg"
   alt: "Comprendiendo el Linfoma T Periférico: Una Guía de Ciencia y Esperanza para Pacientes"
-destacado: true
+destacado: false
 estado: publicado
 trazabilidad:
   origen: "editorial-email-automation-v2"
