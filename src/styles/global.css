@@ -531,7 +531,7 @@ button { font: inherit; cursor: pointer; background: none; border: 0; color: inh
   border: 1px solid var(--line);
   overflow: hidden;
 }
-.featured-image img { width: 100%; height: 100%; object-fit: cover; }
+.featured-image img { width: 100%; height: 100%; object-fit: contain; background: var(--surface-2); }
 .featured-meta {
   display: flex; gap: var(--s-4);
   flex-wrap: wrap;
@@ -738,8 +738,8 @@ button { font: inherit; cursor: pointer; background: none; border: 0; color: inh
 .article-cover figure { margin: 0; }
 .article-cover img {
   width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
+  max-height: 72vh;
+  object-fit: contain;
   border: 1px solid var(--line);
 }
 .article-cover figcaption {
