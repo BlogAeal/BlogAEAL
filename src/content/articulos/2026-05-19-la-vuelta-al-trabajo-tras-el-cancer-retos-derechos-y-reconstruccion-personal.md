@@ -12,7 +12,7 @@ fuente:
 imagen:
   url: "https://blogaeal.github.io/BlogAEAL/assets/uploads/editorial-mail/2026-05-19_aeal_la-vuelta-al-trabajo-tras-el-cancer-retos-derechos-y-reconstruccion-personal_01.png"
   alt: "La vuelta al trabajo tras el cáncer: retos, derechos y reconstrucción personal"
-destacado: true
+destacado: false
 estado: publicado
 trazabilidad:
   origen: "editorial-email-automation-v2"
