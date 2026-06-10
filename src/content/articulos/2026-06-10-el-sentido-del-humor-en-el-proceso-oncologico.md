@@ -49,9 +49,3 @@ Un pequeño alivio dentro del proceso
 El sentido del humor no elimina el sufrimiento ni minimiza la importancia de la enfermedad. Tampoco implica ignorar la realidad o mostrarse fuerte constantemente.
 Pero cuando surge de manera genuina y compartida, puede convertirse en un recurso valioso para aliviar tensiones, recuperar momentos de conexión y hacer algo más llevadero el día a día.
 Porque, a veces, una sonrisa compartida no cambia lo que está ocurriendo, pero sí puede cambiar cómo transitamos ese momento junto a quienes nos acompañan.
-
-El sentido del humor durante el cáncer: beneficios y límites emocionales
-
-GEPAC analiza cómo el humor puede ayudar durante el proceso oncológico y qué aspectos deben tenerse en cuenta para utilizarlo de forma saludable y respetuosa.
-
-humor cáncer, bienestar emocional cáncer, apoyo psicológico oncología, emociones pacientes cáncer, salud mental cáncer, afrontamiento cáncer, Serie GEPAC psicooncología
