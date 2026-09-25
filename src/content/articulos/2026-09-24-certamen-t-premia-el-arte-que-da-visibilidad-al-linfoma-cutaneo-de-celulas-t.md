@@ -39,7 +39,7 @@ Como explicó Marcos Martínez, gerente de AEAL, convivir con un cáncer transfo
 
 La gala reunió a representantes de asociaciones de pacientes, profesionales y miembros del ámbito audiovisual para reconocer las obras que mejor han sabido trasladar esta realidad.
 
-El jurado estuvo formado por Ander Duque, director de cine y académico de las Artes y las Ciencias Cinematográficas; la Dra. Mercedes Morillo, dermatóloga especializada en linfomas cutáneos del Hospital Universitario Virgen del Rocío de Sevilla; Marcos Martínez, gerente de GEPAC; Laura Cunha, directora de la Asociación Portuguesa contra la Leucemia; y Claudia Coscia, Cluster General Manager Sur de Europa de Kyowa Kirin.
+El jurado estuvo formado por Ander Duque, director de cine y académico de las Artes y las Ciencias Cinematográficas; la Dra. Mercedes Morillo, dermatóloga especializada en linfomas cutáneos del Hospital Universitario Virgen del Rocío de Sevilla; Marcos Martínez, gerente de AEAL; Laura Cunha, directora de la Asociación Portuguesa contra la Leucemia; y Claudia Coscia, Cluster General Manager Sur de Europa de Kyowa Kirin.
 
 En esta segunda edición, El sol siempre sale, de Jonathan García, recibió el premio al Mejor cortometraje, dotado con 2.000 euros. El alma al aire, de Esperanza Labrador, fue reconocida como Mejor fotografía, con una dotación de 1.000 euros, mientras que Marcas, de Inés Ventura, obtuvo el Premio del público, dotado con 500 euros.
 
