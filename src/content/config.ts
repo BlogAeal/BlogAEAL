@@ -44,6 +44,9 @@ const articulos = defineCollection({
         credito: z.string().optional()
       }).optional(),
 
+      // ── Justificado del cuerpo (por artículo) ──────────────────
+      texto_justificado: z.boolean().default(false),
+
       // ── Autoría ────────────────────────────────────────────────
       autor: z.string().default('Redacción AEAL'),
 
