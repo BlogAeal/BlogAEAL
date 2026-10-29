@@ -11,7 +11,7 @@ fuente:
   fecha_original: 2026-10-29
 imagen:
   url: "https://blogaeal.github.io/BlogAEAL/assets/uploads/2026-10-29_aeal_aeal-reune-en-sevilla-a-especialistas-para-abordar-los-avances-en-leucemia-y-la-calidad-de_01.jpg"
-  alt: "Asistentes a la jornada del Día Mundial de la Leucemia en el Salón de Actos del Pabellón Docente de la Facultad de Medicina de Sevilla"
+  alt: "Álvaro Golvano, psicooncólogo de GEPAC, durante su ponencia sobre la calidad de vida de los pacientes con leucemia"
 texto_justificado: true
 destacado: true
 estado: publicado
@@ -79,4 +79,4 @@ Desde AEAL reafirmamos nuestro compromiso con la información, el apoyo y el aco
 * [Servicio Andaluz de Salud · El Virgen Macarena protagoniza una jornada de leucemia](https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/el-virgen-macarena-protagoniza-una-jornada-de-leucemia-organizada-por-una-asociacion-de-pacientes)
 * [Europa Press · Jornada de leucemia organizada por una asociación de pacientes](https://www.europapress.es/esandalucia/sevilla/noticia-hospital-virgen-macarena-sevilla-protagoniza-jornada-leucemia-organizada-asociacion-pacientes-20261007091902.html)
 
-![Álvaro Golvano, psicooncólogo de GEPAC, durante su ponencia sobre la calidad de vida de los pacientes con leucemia](/BlogAEAL/assets/uploads/2026-10-29_aeal_aeal-reune-en-sevilla-a-especialistas-para-abordar-los-avances-en-leucemia-y-la-calidad-de_02.jpg)
+![Asistentes a la jornada del Día Mundial de la Leucemia en el Salón de Actos del Pabellón Docente de la Facultad de Medicina de Sevilla](/BlogAEAL/assets/uploads/2026-10-29_aeal_aeal-reune-en-sevilla-a-especialistas-para-abordar-los-avances-en-leucemia-y-la-calidad-de_02.jpg)
