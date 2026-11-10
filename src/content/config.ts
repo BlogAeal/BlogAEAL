@@ -45,7 +45,10 @@ const articulos = defineCollection({
       }).optional(),
 
       // ── Justificado del cuerpo (por artículo) ──────────────────
-      texto_justificado: z.boolean().default(false),
+      // Justificado por defecto en todo el blog desde el 10-11-2026, por
+      // decisión de Fer. Un artículo suelto se puede excluir poniendo
+      // `texto_justificado: false` en su front-matter.
+      texto_justificado: z.boolean().default(true),
 
       // ── Autoría ────────────────────────────────────────────────
       autor: z.string().default('Redacción AEAL'),
